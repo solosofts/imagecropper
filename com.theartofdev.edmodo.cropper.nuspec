@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>com.theartofdev.edmodo.cropper</id>
+    <version>1.0.1</version>
+    <title>Binding library for the com.theartofdev.edmodo.cropper library</title>
+    <authors>adaml984</authors>
+    <owners>adaml984</owners>
+    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/adaml984/imagecropper</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Android binding library for the com.theartofdev.edmodo.cropper v2.7.0</description>
+    <releaseNotes>None</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>Android ImageCropper com.theartofdev.edmodo.cropper</tags>
+  </metadata><files>
+	<file src="com.theartofdev.edmodo.cropper\bin\Release\com.theartofdev.edmodo.cropper.dll" target="lib" />
+  </files>
+</package>
